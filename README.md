@@ -17,7 +17,7 @@ A university project exploring secure file management
 with Python, authentication, encryption, integrity verification,
 file deletion and security logging.
 
-The source repository is currently private.
+[View SecureVault source code](https://github.com/safalsapkota980-cell/SecureVault_Final_Project)
 
 ### WellBeingCheck
 A university team project developing a wellbeing survey web
