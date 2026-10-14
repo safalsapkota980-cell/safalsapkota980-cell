@@ -13,7 +13,7 @@ software development and practical problem-solving.
 ## Project experience
 
 ### SecureVault
-A university group project exploring secure file management
+A university project exploring secure file management
 with Python, authentication, encryption, integrity verification,
 file deletion and security logging.
 
