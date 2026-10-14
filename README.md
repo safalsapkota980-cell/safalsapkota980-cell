@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Safal Sapkota
 
-<!--
-**safalsapkota980-cell/safalsapkota980-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology graduate interested in data analytics,
+software development and practical problem-solving.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completed a Bachelor of Information Technology at CIHE.
+- Seeking entry-level IT opportunities in Tasmania.
+- Developing my skills through practical projects and teamwork.
+- Building toward a career in data analytics.
+
+## Project experience
+
+### SecureVault
+A university group project exploring secure file management
+with Python, authentication, encryption, integrity verification,
+file deletion and security logging.
+
+The source repository is currently private.
+
+### WellBeingCheck
+A university team project developing a wellbeing survey web
+application using React, Node.js and Supabase.
+
+[View project repository](https://github.com/SudinG4/effective-serving-app)
+
+### React Portfolio
+My first React portfolio project, practising components,
+props, state, lists and an interactive contact form.
+
+[View project repository](https://github.com/safalsapkota980-cell/safal-react-portfolio)
+
+## Technologies used in projects
+
+Python · JavaScript · React · HTML · CSS · Node.js · Supabase · Git · GitHub
+
+## Learning goals
+
+Strengthen my SQL, Excel, Power BI and Python data analysis
+skills, and publish projects that explain both the process
+and the findings.
